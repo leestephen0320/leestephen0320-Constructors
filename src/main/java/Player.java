@@ -49,7 +49,7 @@ public class Player {
      */
     public Player(String playerName, int level){
         this.playerName = playerName;
-        this.playerName = level;
+        this.level = level;
     }
 
 }
